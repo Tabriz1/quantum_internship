@@ -13,3 +13,16 @@
 
 
 
+# Explatory Data Analysis
+
+- Data info
+- Searching for null and duplicate values
+- Exploring relations among variables and target
+- Searching for Outliers in dataset
+
+# Modelling
+
+- Importing data
+- Splitting data into train and test for modelling and Scaling
+- Modelling with Decision Tree Regressor
+- Writing internship_hidden_test with new predicted values to new Hidden_test.csv
